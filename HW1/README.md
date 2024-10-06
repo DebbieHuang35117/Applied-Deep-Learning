@@ -6,3 +6,22 @@ By running ```train.sh```, you could start training your models with the data pr
 
 ## Training on hfl/chinese-roberta
 I first use ```format.transform.py``` to make the format of our original dataset to the format that the pre-trained model could use.
+
+
+README.md
+run.sh
+download.sh
+report.pdf
+your code/script (all the code/script you used to train, predict, or plot report figures should be included).
+```
+/
+ADL_hw1/
+│   ├── README.md
+│   ├── run.sh
+│   ├── download.sh
+│   ├── report.pdf
+│   ├── dataset/
+│   │   ├── train.json
+│   │   ├── valid.json
+│   │   ├── test.json
+```
