@@ -14,7 +14,6 @@ download.sh
 report.pdf
 your code/script (all the code/script you used to train, predict, or plot report figures should be included).
 ```
-/
 ADL_hw1/
 │   ├── README.md
 │   ├── run.sh
